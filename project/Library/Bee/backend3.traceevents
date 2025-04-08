@@ -1,0 +1,598 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1744049034040934, "dur":32348, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744049034073290, "dur":125, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744049034073465, "dur":578, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744049034074692, "dur":108, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744049034075102, "dur":174, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744049034075561, "dur":227, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744049034075990, "dur":181, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744049034076294, "dur":202, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744049034074054, "dur":2764, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744049034076818, "dur":9902672, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744049043979493, "dur":321, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744049043979814, "dur":299, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744049043980113, "dur":98, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744049043980211, "dur":160, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744049043980455, "dur":62, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744049043980722, "dur":2331, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1744049034073904, "dur":2993, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744049034077669, "dur":531, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":1, "ts":1744049034078200, "dur":3702, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":1, "ts":1744049034081902, "dur":54, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport" }}
+,{ "pid":12345, "tid":1, "ts":1744049034081956, "dur":753, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":1, "ts":1744049034082744, "dur":120, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":1, "ts":1744049034082864, "dur":72, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":1, "ts":1744049034076901, "dur":6081, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744049034082986, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteResponseFile Library/Bee/artifacts/rsp/8966942531855342768.rsp" }}
+,{ "pid":12345, "tid":1, "ts":1744049034083071, "dur":769, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/kathe/Unity Projects/card collector game/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":1, "ts":1744049034083840, "dur":1211, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744049034089012, "dur":102310, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744049034191323, "dur":310654, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744049034501980, "dur":386218, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744049034888216, "dur":12826, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744049034901129, "dur":169957, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\PackageCache\\com.unity.burst@616862665d8c\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":1, "ts":1744049034088997, "dur":982090, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":1, "ts":1744049035091022, "dur":8888311, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":2, "ts":1744049034075253, "dur":3983, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744049034079237, "dur":4125, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744049034083422, "dur":5693, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744049034089135, "dur":83250, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744049034089115, "dur":83271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744049034200330, "dur":21482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744049034221844, "dur":204090, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744049034221816, "dur":204119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744049034425949, "dur":836, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744049034426805, "dur":89879, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744049034426786, "dur":89900, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744049034516719, "dur":779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1744049034517500, "dur":9462003, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744049034073931, "dur":2973, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744049034076914, "dur":336, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744049034077250, "dur":336, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744049034077700, "dur":574, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.ComponentModel.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744049034077586, "dur":882, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744049034078468, "dur":366, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744049034078834, "dur":4570, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744049034083404, "dur":5758, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744049034089192, "dur":127920, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744049034089162, "dur":127952, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744049034217144, "dur":13825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744049034230992, "dur":192676, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744049034230970, "dur":192699, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744049034423686, "dur":1222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744049034424939, "dur":234731, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744049034424910, "dur":234761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744049034659682, "dur":2051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744049034661734, "dur":9317750, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744049034073959, "dur":3091, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744049034077462, "dur":1175, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Xml.XmlDocument.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744049034077073, "dur":1565, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744049034078639, "dur":185, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744049034078824, "dur":4604, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744049034083428, "dur":5706, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744049034089245, "dur":92661, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744049034089135, "dur":92773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744049034200719, "dur":21789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744049034223144, "dur":253272, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744049034222510, "dur":253907, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744049034476439, "dur":1182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744049034477651, "dur":33992, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744049034477624, "dur":34020, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744049034511654, "dur":178, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744049034511836, "dur":1412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744049034513250, "dur":9466229, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744049034075314, "dur":3990, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744049034079304, "dur":4110, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744049034083414, "dur":6027, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744049034089505, "dur":24507, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034089442, "dur":24572, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034114509, "dur":110, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744049034197660, "dur":17120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034214800, "dur":70777, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034214782, "dur":70797, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034285599, "dur":1459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034287091, "dur":114094, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034287062, "dur":114124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034401215, "dur":1333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034402576, "dur":64851, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034402551, "dur":64877, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034467441, "dur":3857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034471328, "dur":34757, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034471301, "dur":34786, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034506109, "dur":1264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034507405, "dur":65761, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034507376, "dur":65791, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034573178, "dur":1154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744049034574333, "dur":9405172, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744049034075414, "dur":3990, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744049034079404, "dur":3707, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744049034083115, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":6, "ts":1744049034083402, "dur":6075, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744049034089494, "dur":412502, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744049034089478, "dur":412520, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744049034502030, "dur":1081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744049034503149, "dur":41220, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744049034503114, "dur":41257, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744049034544385, "dur":735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744049034545122, "dur":9434396, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744049034074290, "dur":3014, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744049034077305, "dur":332, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744049034077913, "dur":1006, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\monolinker.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744049034077638, "dur":1480, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744049034079118, "dur":4303, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744049034083421, "dur":5896, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744049034089408, "dur":32519, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744049034089318, "dur":32610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744049034198011, "dur":20040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744049034218115, "dur":211158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744049034218054, "dur":211220, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744049034429289, "dur":1185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744049034430499, "dur":103117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744049034430476, "dur":103141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744049034533640, "dur":1114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744049034534756, "dur":9444731, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744049034074313, "dur":2994, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744049034077309, "dur":385, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744049034077772, "dur":1076, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\il2cpp-compile.exe" }}
+,{ "pid":12345, "tid":8, "ts":1744049034077694, "dur":1611, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744049034079305, "dur":4107, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744049034083412, "dur":6031, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744049034089468, "dur":96739, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034089443, "dur":96765, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034229992, "dur":53, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744049034200919, "dur":29140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034230097, "dur":44940, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034230063, "dur":44976, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034275063, "dur":1017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034276116, "dur":69438, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034276083, "dur":69472, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034345569, "dur":750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034346338, "dur":33514, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034346321, "dur":33533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034379867, "dur":655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034380540, "dur":47426, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034380524, "dur":47444, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034427984, "dur":740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034428744, "dur":38670, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034428726, "dur":38689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034467427, "dur":3525, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034470978, "dur":23966, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034470954, "dur":23992, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034494966, "dur":1067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034496057, "dur":38088, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034496035, "dur":38112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034534166, "dur":852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1744049034535019, "dur":9444475, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744049034074426, "dur":3015, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744049034077443, "dur":365, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744049034077808, "dur":334, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744049034078143, "dur":320, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744049034078463, "dur":375, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744049034078839, "dur":4589, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744049034083428, "dur":5736, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744049034089197, "dur":54179, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034089164, "dur":54214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034199037, "dur":21321, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034220397, "dur":38160, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034220360, "dur":38199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034258584, "dur":944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034259576, "dur":41871, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034259531, "dur":41918, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034301471, "dur":1301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034302805, "dur":42040, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034302775, "dur":42072, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034344869, "dur":724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034345619, "dur":123391, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034345596, "dur":123415, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034469041, "dur":2934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034471997, "dur":129602, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034471977, "dur":129623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034601632, "dur":737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744049034602371, "dur":9377216, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744049034074456, "dur":3271, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744049034077728, "dur":339, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744049034078111, "dur":919, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Threading.AccessControl.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744049034078067, "dur":1327, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744049034079395, "dur":4004, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744049034083417, "dur":5970, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744049034089405, "dur":146500, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744049034089387, "dur":146519, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744049034235941, "dur":1365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744049034237338, "dur":185661, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744049034237308, "dur":185693, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744049034423016, "dur":1334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744049034424376, "dur":283395, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744049034424352, "dur":283420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744049034707788, "dur":1675, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1744049034709465, "dur":9270092, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744049034074475, "dur":3261, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744049034077738, "dur":599, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\Analytics.exe" }}
+,{ "pid":12345, "tid":11, "ts":1744049034077738, "dur":891, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744049034078629, "dur":864, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744049034079494, "dur":3560, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744049034083341, "dur":91, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034083448, "dur":5662, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744049034089151, "dur":3059, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034089113, "dur":3098, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034095474, "dur":98390, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034193886, "dur":83119, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034193866, "dur":83141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034277037, "dur":924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034277998, "dur":203359, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034277964, "dur":203395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034481376, "dur":898, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034482306, "dur":23893, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034482277, "dur":23924, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034506214, "dur":1384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1744049034507599, "dur":9471882, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744049034074553, "dur":3189, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744049034077743, "dur":1001, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744049034077742, "dur":1316, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744049034079058, "dur":4367, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744049034083425, "dur":5812, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744049034089259, "dur":77684, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744049034089237, "dur":77720, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744049034199775, "dur":22230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744049034222037, "dur":46879, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744049034222007, "dur":46911, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744049034268941, "dur":1136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ShaderVariantAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744049034270126, "dur":242970, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744049034270080, "dur":243017, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744049034513147, "dur":1772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744049034514921, "dur":9464577, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744049034074577, "dur":3168, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744049034077746, "dur":999, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Stevedore.Program.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034077746, "dur":1333, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744049034079079, "dur":4345, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744049034083424, "dur":5818, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744049034089266, "dur":32985, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034089242, "dur":33010, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034198203, "dur":19575, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034217840, "dur":44591, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034217781, "dur":44652, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034262478, "dur":1316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034263858, "dur":32929, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034263798, "dur":32991, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034296813, "dur":1186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034298024, "dur":181137, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034298002, "dur":181161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034479185, "dur":939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.InputForUIModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034480155, "dur":129441, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034480127, "dur":129471, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034609611, "dur":549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744049034610161, "dur":9369414, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744049034074604, "dur":3143, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744049034077748, "dur":1085, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Workflow.Activities.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034077748, "dur":1588, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744049034079336, "dur":4074, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744049034083410, "dur":6038, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744049034089470, "dur":87513, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034089448, "dur":87537, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034200477, "dur":25415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034225921, "dur":40925, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034225894, "dur":40954, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034266859, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744049034266917, "dur":1051, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034268016, "dur":61957, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034267972, "dur":62002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034329990, "dur":745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034330756, "dur":43359, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034330737, "dur":43380, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034374127, "dur":645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034374789, "dur":204280, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034374773, "dur":204297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034579082, "dur":831, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.MultiplayerModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744049034579915, "dur":9399653, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744049034074631, "dur":3118, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744049034077751, "dur":1111, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Web.ApplicationServices.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034077751, "dur":1738, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744049034079489, "dur":3616, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744049034083109, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":15, "ts":1744049034083212, "dur":235, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744049034083449, "dur":5619, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744049034089105, "dur":46246, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034089068, "dur":46284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034198736, "dur":20924, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034219714, "dur":27864, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034219663, "dur":27917, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034247592, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744049034247659, "dur":1292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.GraphicsStateCollectionSerializerModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034248987, "dur":37188, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034248955, "dur":37221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034286203, "dur":1240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AMDModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034287471, "dur":253208, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034287445, "dur":253235, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034540712, "dur":1762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744049034542476, "dur":9437012, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744049034074663, "dur":3094, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744049034077760, "dur":1095, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Reactive.Runtime.Remoting.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744049034077760, "dur":1545, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744049034079305, "dur":4105, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744049034083410, "dur":6040, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744049034089573, "dur":241549, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744049034089452, "dur":241671, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744049034331143, "dur":684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744049034331846, "dur":73978, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744049034331829, "dur":73996, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744049034405847, "dur":857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744049034406735, "dur":168630, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744049034406707, "dur":168659, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744049034575379, "dur":595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.HierarchyCoreModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1744049034575975, "dur":9403591, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1744049034074681, "dur":3084, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1744049034077767, "dur":355, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1744049034078264, "dur":1042, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Net.Security.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034078122, "dur":1368, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1744049034079490, "dur":3494, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1744049034082987, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":17, "ts":1744049034083091, "dur":573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":17, "ts":1744049034083695, "dur":5304, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1744049034089057, "dur":121175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034089000, "dur":121234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034210249, "dur":26709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034236989, "dur":79611, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034236961, "dur":79640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034316626, "dur":1034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034317696, "dur":43779, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034317664, "dur":43812, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034361491, "dur":521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034362028, "dur":281397, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Drawing.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034362014, "dur":281412, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034643443, "dur":1114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744049034644558, "dur":9334995, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1744049034074702, "dur":3418, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1744049034078122, "dur":339, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1744049034078461, "dur":350, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1744049034078812, "dur":4617, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1744049034083429, "dur":5685, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1744049034089176, "dur":33842, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034089115, "dur":33904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034198274, "dur":19819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034218135, "dur":75357, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\netstandard.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034218095, "dur":75399, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034293518, "dur":942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034294493, "dur":81905, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034294464, "dur":81935, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034376413, "dur":754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034377185, "dur":60710, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034377169, "dur":60728, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034437916, "dur":843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034438781, "dur":88860, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034438762, "dur":88881, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034527665, "dur":957, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1744049034528624, "dur":9450892, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1744049034074731, "dur":4332, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1744049034079063, "dur":4362, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1744049034083425, "dur":5813, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1744049034089259, "dur":33901, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1744049034089239, "dur":33922, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1744049034198457, "dur":19978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1744049034218478, "dur":191609, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Core.dll" }}
+,{ "pid":12345, "tid":19, "ts":1744049034218437, "dur":191651, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":19, "ts":1744049034410106, "dur":1375, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":19, "ts":1744049034411515, "dur":55869, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1744049034411483, "dur":55903, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1744049034467406, "dur":3664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1744049034471114, "dur":46667, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1744049034471072, "dur":46711, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1744049034517800, "dur":754, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1744049034518556, "dur":9460918, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1744049034074751, "dur":4341, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1744049034079092, "dur":4332, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1744049034083424, "dur":5877, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1744049034089320, "dur":31602, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744049034089302, "dur":31622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744049034197927, "dur":21323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744049034219309, "dur":98566, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744049034219253, "dur":98623, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744049034317898, "dur":903, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744049034318831, "dur":35312, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744049034318804, "dur":35340, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744049034354161, "dur":624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744049034354803, "dur":221865, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744049034354787, "dur":221882, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744049034576680, "dur":757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744049034577438, "dur":9402124, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1744049034074867, "dur":4232, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1744049034079099, "dur":4322, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1744049034083421, "dur":5894, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1744049034089342, "dur":29930, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034089316, "dur":29958, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034197732, "dur":15719, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034213470, "dur":90271, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034213453, "dur":90289, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034303758, "dur":1074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034304856, "dur":138685, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034304835, "dur":138707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034443561, "dur":705, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034444287, "dur":53711, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034444269, "dur":53730, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034498022, "dur":1085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034499139, "dur":68777, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034499110, "dur":68808, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034567936, "dur":1647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744049034569585, "dur":9409975, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1744049034074877, "dur":4245, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1744049034079122, "dur":4298, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1744049034083421, "dur":5905, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1744049034089347, "dur":44528, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744049034089326, "dur":44551, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744049034198589, "dur":21068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744049034219732, "dur":151755, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744049034219659, "dur":151830, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744049034371505, "dur":665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744049034372188, "dur":50680, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744049034372173, "dur":50697, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744049034422897, "dur":1298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744049034424230, "dur":224873, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744049034424198, "dur":224906, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744049034649115, "dur":1626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744049034650742, "dur":9328781, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1744049034074967, "dur":4160, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1744049034079127, "dur":4289, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1744049034083416, "dur":5987, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1744049034089426, "dur":2878, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":23, "ts":1744049034089403, "dur":2902, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":23, "ts":1744049034094670, "dur":115412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":23, "ts":1744049034210102, "dur":198446, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":23, "ts":1744049034210085, "dur":198464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":23, "ts":1744049034408565, "dur":784, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":23, "ts":1744049034409371, "dur":100793, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1744049034409351, "dur":100815, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1744049034510194, "dur":2072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1744049034512268, "dur":9467224, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1744049034074993, "dur":4152, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1744049034079145, "dur":4254, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1744049034083418, "dur":5705, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1744049034089144, "dur":108185, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Net.Http.dll" }}
+,{ "pid":12345, "tid":24, "ts":1744049034089123, "dur":108207, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":24, "ts":1744049034204823, "dur":25875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":24, "ts":1744049034230731, "dur":657200, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\mscorlib.dll" }}
+,{ "pid":12345, "tid":24, "ts":1744049034230699, "dur":657234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":24, "ts":1744049034887963, "dur":1771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":24, "ts":1744049034889736, "dur":9089777, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1744049034075014, "dur":4152, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1744049034079167, "dur":4230, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1744049034083416, "dur":5744, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1744049034089189, "dur":196139, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Security.dll" }}
+,{ "pid":12345, "tid":25, "ts":1744049034089160, "dur":196170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":25, "ts":1744049034285368, "dur":1727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":25, "ts":1744049034287127, "dur":77847, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1744049034287098, "dur":77878, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1744049034364989, "dur":590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":25, "ts":1744049034365599, "dur":202398, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":25, "ts":1744049034365581, "dur":202417, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":25, "ts":1744049034568008, "dur":1721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":25, "ts":1744049034569730, "dur":9409780, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1744049034075038, "dur":4140, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1744049034079179, "dur":4183, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1744049034083440, "dur":5629, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1744049034089088, "dur":67987, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Transactions.dll" }}
+,{ "pid":12345, "tid":26, "ts":1744049034089069, "dur":68008, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":26, "ts":1744049034199629, "dur":20531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":26, "ts":1744049034220187, "dur":104793, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1744049034220162, "dur":104820, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1744049034325017, "dur":809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1744049034325850, "dur":59688, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1744049034325828, "dur":59711, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1744049034385555, "dur":556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1744049034386131, "dur":157981, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1744049034386114, "dur":157999, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1744049034544128, "dur":811, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1744049034544941, "dur":9434631, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1744049034073977, "dur":3162, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1744049034077290, "dur":529, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.ValueTuple.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034077143, "dur":898, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1744049034078041, "dur":329, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1744049034078371, "dur":348, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1744049034078719, "dur":4452, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1744049034083182, "dur":244, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":27, "ts":1744049034083441, "dur":5675, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1744049034089157, "dur":46752, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034089117, "dur":46794, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034198830, "dur":19603, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034218464, "dur":36296, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034218434, "dur":36328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034254794, "dur":1170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034256003, "dur":123518, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034255968, "dur":123555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034379537, "dur":578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034380132, "dur":43586, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034380117, "dur":43603, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034423732, "dur":1180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034424941, "dur":48809, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034424914, "dur":48838, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034473769, "dur":971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034474768, "dur":79503, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034474742, "dur":79531, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034554292, "dur":692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1744049034554986, "dur":9424538, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1744049034074000, "dur":3224, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1744049034077420, "dur":506, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\il2cpp\\build\\deploy\\System.Security.Principal.Windows.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034077229, "dur":866, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1744049034078309, "dur":804, "ph":"X", "name": "File",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\6000.0.36f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Security.Cryptography.Algorithms.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034078095, "dur":1307, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1744049034079402, "dur":3785, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1744049034083403, "dur":6059, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1744049034089521, "dur":99559, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034089463, "dur":99618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034201014, "dur":25360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034226482, "dur":43636, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034226376, "dur":43743, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034270142, "dur":953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034271129, "dur":55765, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034271097, "dur":55798, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034326909, "dur":970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034327899, "dur":181997, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034327881, "dur":182017, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034509955, "dur":2060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744049034512018, "dur":9467459, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1744049034074115, "dur":3184, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1744049034077302, "dur":568, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1744049034077871, "dur":325, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1744049034078196, "dur":359, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1744049034078556, "dur":349, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1744049034078905, "dur":4521, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1744049034083426, "dur":5802, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1744049034089257, "dur":60816, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1744049034089229, "dur":60845, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1744049034199177, "dur":19890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1744049034219089, "dur":250536, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Data.dll" }}
+,{ "pid":12345, "tid":29, "ts":1744049034219068, "dur":250558, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":29, "ts":1744049034469640, "dur":2623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":29, "ts":1744049034472289, "dur":63410, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1744049034472265, "dur":63436, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1744049034535719, "dur":819, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1744049034536539, "dur":9442962, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1744049034075348, "dur":4051, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1744049034079399, "dur":3832, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1744049034083435, "dur":5696, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1744049034089133, "dur":102448, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":30, "ts":1744049034089132, "dur":102450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":30, "ts":1744049034201201, "dur":29169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":30, "ts":1744049034230407, "dur":670718, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Xml.dll" }}
+,{ "pid":12345, "tid":30, "ts":1744049034230372, "dur":670754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":30, "ts":1744049034901138, "dur":1867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":30, "ts":1744049034903007, "dur":9076520, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1744049034075516, "dur":3890, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1744049034079406, "dur":3711, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1744049034083121, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":31, "ts":1744049034083226, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1744049034083399, "dur":6090, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1744049034089532, "dur":81680, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034089490, "dur":81724, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034200008, "dur":25182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034225241, "dur":48618, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034225193, "dur":48668, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034273890, "dur":1528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034275459, "dur":97895, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034275421, "dur":97934, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034373368, "dur":843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034374239, "dur":119752, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034374214, "dur":119779, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034494024, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034495756, "dur":95175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034495733, "dur":95199, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034590946, "dur":948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744049034591896, "dur":9387663, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1744049034075641, "dur":3768, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1744049034079409, "dur":3952, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1744049034083400, "dur":5783, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1744049034089203, "dur":2298, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034089184, "dur":2319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034093465, "dur":100396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034193885, "dur":708, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034193864, "dur":729, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034202173, "dur":22334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034224539, "dur":85614, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034224510, "dur":85645, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034310184, "dur":1211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034311430, "dur":161527, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\System.Configuration.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034311399, "dur":161560, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034472977, "dur":904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034473910, "dur":98826, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\ManagedStripped\\UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034473883, "dur":98854, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034572749, "dur":1484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/card collector game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744049034574234, "dur":9405273, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744049043985801, "dur":1068, "ph":"X", "name": "ProfilerWriteOutput" }
+,

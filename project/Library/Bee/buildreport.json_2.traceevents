@@ -1,0 +1,486 @@
+{ "pid": 58656, "tid": 34359738368, "ph": "M", "name": "thread_name", "args": { "name": "ReadEntireBinlogFromIpcAsync" } },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179663971, "dur": 19064, "ph": "X", "name": "WaitForConnectionAsync", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179683036, "dur": 102316, "ph": "X", "name": "UpdateFromStreamAsync", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179683045, "dur": 352, "ph": "X", "name": "ReadAsync 0", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179683402, "dur": 7, "ph": "X", "name": "ProcessMessages 63", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179683411, "dur": 1573, "ph": "X", "name": "ReadAsync 63", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179684990, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179684993, "dur": 297, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179685295, "dur": 6, "ph": "X", "name": "ProcessMessages 3746", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179685303, "dur": 152, "ph": "X", "name": "ReadAsync 3746", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179685457, "dur": 2, "ph": "X", "name": "ProcessMessages 3910", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179685460, "dur": 199, "ph": "X", "name": "ReadAsync 3910", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179685663, "dur": 2, "ph": "X", "name": "ProcessMessages 2456", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179685666, "dur": 75, "ph": "X", "name": "ReadAsync 2456", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179685743, "dur": 3, "ph": "X", "name": "ProcessMessages 7028", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179685748, "dur": 335, "ph": "X", "name": "ReadAsync 7028", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179686100, "dur": 7, "ph": "X", "name": "ProcessMessages 1317", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179686111, "dur": 323, "ph": "X", "name": "ReadAsync 1317", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179686437, "dur": 6, "ph": "X", "name": "ProcessMessages 14117", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179686444, "dur": 208, "ph": "X", "name": "ReadAsync 14117", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179686655, "dur": 4, "ph": "X", "name": "ProcessMessages 10159", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179686661, "dur": 370, "ph": "X", "name": "ReadAsync 10159", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179687045, "dur": 5, "ph": "X", "name": "ProcessMessages 6345", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179687051, "dur": 231, "ph": "X", "name": "ReadAsync 6345", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179687285, "dur": 4, "ph": "X", "name": "ProcessMessages 8131", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179687291, "dur": 6028, "ph": "X", "name": "ReadAsync 8131", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179693323, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179693325, "dur": 40, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179693369, "dur": 1, "ph": "X", "name": "ProcessMessages 116", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179693371, "dur": 40, "ph": "X", "name": "ReadAsync 116", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179693417, "dur": 1, "ph": "X", "name": "ProcessMessages 16", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179693419, "dur": 46, "ph": "X", "name": "ReadAsync 16", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179693469, "dur": 1, "ph": "X", "name": "ProcessMessages 112", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179693472, "dur": 247, "ph": "X", "name": "ReadAsync 112", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179693725, "dur": 2, "ph": "X", "name": "ProcessMessages 144", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179693729, "dur": 226, "ph": "X", "name": "ReadAsync 144", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179693959, "dur": 1, "ph": "X", "name": "ProcessMessages 64", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179693960, "dur": 64, "ph": "X", "name": "ReadAsync 64", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179694028, "dur": 2, "ph": "X", "name": "ProcessMessages 52", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179694031, "dur": 482, "ph": "X", "name": "ReadAsync 52", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179694517, "dur": 104, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179694624, "dur": 1, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179694625, "dur": 722, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179695354, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179695357, "dur": 262, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179695623, "dur": 1, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179695625, "dur": 771, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179696401, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179696403, "dur": 300, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179696708, "dur": 281, "ph": "X", "name": "ProcessMessages 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179696992, "dur": 196, "ph": "X", "name": "ReadAsync 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179697191, "dur": 9, "ph": "X", "name": "ProcessMessages 92", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179697201, "dur": 2677, "ph": "X", "name": "ReadAsync 92", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179699883, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179699886, "dur": 140, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179700030, "dur": 2, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179700034, "dur": 524, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179700563, "dur": 111, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179700678, "dur": 1, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179700680, "dur": 795, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179701479, "dur": 187, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179701670, "dur": 17, "ph": "X", "name": "ProcessMessages 50", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179701688, "dur": 2638, "ph": "X", "name": "ReadAsync 50", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179704332, "dur": 205, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179704540, "dur": 2, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179704543, "dur": 652, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179705199, "dur": 235, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179705438, "dur": 1, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179705440, "dur": 303, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179705749, "dur": 49, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179705802, "dur": 12, "ph": "X", "name": "ProcessMessages 66", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179705816, "dur": 56, "ph": "X", "name": "ReadAsync 66", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179705876, "dur": 2, "ph": "X", "name": "ProcessMessages 144", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179705879, "dur": 230, "ph": "X", "name": "ReadAsync 144", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179706113, "dur": 1, "ph": "X", "name": "ProcessMessages 156", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179706115, "dur": 72, "ph": "X", "name": "ReadAsync 156", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179706191, "dur": 5, "ph": "X", "name": "ProcessMessages 772", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179706197, "dur": 260, "ph": "X", "name": "ReadAsync 772", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179706463, "dur": 11, "ph": "X", "name": "ProcessMessages 190", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179706476, "dur": 229, "ph": "X", "name": "ReadAsync 190", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179706709, "dur": 3, "ph": "X", "name": "ProcessMessages 592", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179706712, "dur": 102, "ph": "X", "name": "ReadAsync 592", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179706818, "dur": 1, "ph": "X", "name": "ProcessMessages 48", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179706820, "dur": 125, "ph": "X", "name": "ReadAsync 48", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179706949, "dur": 163, "ph": "X", "name": "ReadAsync 32", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179707117, "dur": 117, "ph": "X", "name": "ReadAsync 16", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179707237, "dur": 1, "ph": "X", "name": "ProcessMessages 48", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179707238, "dur": 155, "ph": "X", "name": "ReadAsync 48", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179707398, "dur": 119, "ph": "X", "name": "ReadAsync 16", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179707521, "dur": 1631, "ph": "X", "name": "ReadAsync 16", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179709157, "dur": 212, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179709372, "dur": 1, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179709374, "dur": 899, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179710279, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179710282, "dur": 129, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179710414, "dur": 7, "ph": "X", "name": "ProcessMessages 54", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179710422, "dur": 795, "ph": "X", "name": "ReadAsync 54", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179711222, "dur": 103, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179711328, "dur": 7, "ph": "X", "name": "ProcessMessages 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179711337, "dur": 2149, "ph": "X", "name": "ReadAsync 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179713493, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179713496, "dur": 203, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179713704, "dur": 1, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179713706, "dur": 714, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179714425, "dur": 267, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179714698, "dur": 3, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179714702, "dur": 385, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179715092, "dur": 123, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179715218, "dur": 8, "ph": "X", "name": "ProcessMessages 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179715228, "dur": 660, "ph": "X", "name": "ReadAsync 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179715892, "dur": 24, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179715918, "dur": 5, "ph": "X", "name": "ProcessMessages 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179715924, "dur": 2575, "ph": "X", "name": "ReadAsync 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179718504, "dur": 29, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179718538, "dur": 1, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179718540, "dur": 646, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179719190, "dur": 38, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179719230, "dur": 4, "ph": "X", "name": "ProcessMessages 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179719235, "dur": 6456, "ph": "X", "name": "ReadAsync 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179725696, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179725698, "dur": 152, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179725854, "dur": 2, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179725857, "dur": 517, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179726380, "dur": 56, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179726439, "dur": 5, "ph": "X", "name": "ProcessMessages 54", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179726444, "dur": 627, "ph": "X", "name": "ReadAsync 54", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179727076, "dur": 154, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179727233, "dur": 3, "ph": "X", "name": "ProcessMessages 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179727237, "dur": 3538, "ph": "X", "name": "ReadAsync 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179730779, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179730781, "dur": 171, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179730955, "dur": 1, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179730957, "dur": 479, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179731442, "dur": 214, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179731669, "dur": 4, "ph": "X", "name": "ProcessMessages 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179731675, "dur": 2554, "ph": "X", "name": "ReadAsync 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179734233, "dur": 168, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179734405, "dur": 1, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179734407, "dur": 316, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179734727, "dur": 195, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179734926, "dur": 4, "ph": "X", "name": "ProcessMessages 54", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179734931, "dur": 2180, "ph": "X", "name": "ReadAsync 54", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179737115, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179737117, "dur": 143, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179737263, "dur": 5, "ph": "X", "name": "ProcessMessages 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179737268, "dur": 1031, "ph": "X", "name": "ReadAsync 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179738304, "dur": 26, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179738332, "dur": 1, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179738334, "dur": 805, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179739143, "dur": 90, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179739236, "dur": 5, "ph": "X", "name": "ProcessMessages 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179739242, "dur": 1506, "ph": "X", "name": "ReadAsync 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179740753, "dur": 182, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179740938, "dur": 1, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179740940, "dur": 307, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179741252, "dur": 226, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179741481, "dur": 9, "ph": "X", "name": "ProcessMessages 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179741491, "dur": 31192, "ph": "X", "name": "ReadAsync 34", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179772695, "dur": 2, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179772699, "dur": 145, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179772851, "dur": 11, "ph": "X", "name": "ProcessMessages 516", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179772863, "dur": 6150, "ph": "X", "name": "ReadAsync 516", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179779019, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179779021, "dur": 40, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179779065, "dur": 2, "ph": "X", "name": "ProcessMessages 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179779068, "dur": 641, "ph": "X", "name": "ReadAsync 8", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179779717, "dur": 1, "ph": "X", "name": "ProcessMessages 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179779721, "dur": 132, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179779857, "dur": 7, "ph": "X", "name": "ProcessMessages 50", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179779865, "dur": 947, "ph": "X", "name": "ReadAsync 50", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179780817, "dur": 261, "ph": "X", "name": "ReadAsync 12", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179781081, "dur": 1, "ph": "X", "name": "ProcessMessages 13", "args": {} },
+{ "pid": 58656, "tid": 34359738368, "ts": 1744050179781083, "dur": 4266, "ph": "X", "name": "ReadAsync 13", "args": {} },
+{ "pid": 58656, "tid": 397, "ts": 1744050179785673, "dur": 201, "ph": "X", "name": "ReadEntireBinlogFromIpcAsync", "args": {} },
+{ "pid": 58656, "tid": 30064771072, "ph": "M", "name": "thread_name", "args": { "name": "BuildAsync" } },
+{ "pid": 58656, "tid": 30064771072, "ts": 1744050179661687, "dur": 123696, "ph": "X", "name": "RunBackend", "args": {} },
+{ "pid": 58656, "tid": 30064771072, "ts": 1744050179661761, "dur": 2170, "ph": "X", "name": "BackendProgram.Start", "args": {} },
+{ "pid": 58656, "tid": 30064771072, "ts": 1744050179785385, "dur": 5, "ph": "X", "name": "await WaitForAndApplyScriptUpdaters", "args": {} },
+{ "pid": 58656, "tid": 397, "ts": 1744050179785887, "dur": 3, "ph": "X", "name": "BuildAsync", "args": {} },
+{ "pid": 58656, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
+{ "pid": 58656, "tid": 1, "ts": 1744050179389017, "dur": 997, "ph": "X", "name": "<Add>b__0", "args": {} },
+{ "pid": 58656, "tid": 1, "ts": 1744050179390017, "dur": 270485, "ph": "X", "name": "<SetupBuildRequest>b__0", "args": {} },
+{ "pid": 58656, "tid": 1, "ts": 1744050179660505, "dur": 1163, "ph": "X", "name": "WriteJson", "args": {} },
+{ "pid": 58656, "tid": 397, "ts": 1744050179785892, "dur": 3, "ph": "X", "name": "", "args": {} },
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1744050179682655, "dur":1309, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744050179683971, "dur":153, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744050179684170, "dur":723, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744050179685034, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1744050179685683, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.Multiplayer.Center.Common.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744050179686157, "dur":95, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744050179686462, "dur":70, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1744050179684909, "dur":2043, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744050179686953, "dur":92880, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744050179779834, "dur":343, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744050179780301, "dur":68, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744050179780418, "dur":51, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744050179780612, "dur":1687, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1744050179685596, "dur":1976, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744050179687590, "dur":1076, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744050179688666, "dur":4678, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744050179693353, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/D3D12/D3D12Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744050179693485, "dur":12216, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744050179705935, "dur":415, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1744050179706356, "dur":229, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744050179706615, "dur":579, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1744050179707194, "dur":72665, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744050179685583, "dur":1870, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744050179687457, "dur":1128, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744050179688585, "dur":733, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744050179689318, "dur":3970, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1744050179693292, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1744050179734115, "dur":506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/level0" }}
+,{ "pid":12345, "tid":2, "ts":1744050179734636, "dur":45087, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744050179684889, "dur":2130, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744050179687804, "dur":571, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/il2cpp/build/deploy" }}
+,{ "pid":12345, "tid":3, "ts":1744050179688375, "dur":3712, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/il2cpp/libil2cpp" }}
+,{ "pid":12345, "tid":3, "ts":1744050179692133, "dur":726, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/Variations/win64_player_nondevelopment_mono" }}
+,{ "pid":12345, "tid":3, "ts":1744050179692893, "dur":119, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Tools/BuildPipeline" }}
+,{ "pid":12345, "tid":3, "ts":1744050179693012, "dur":96, "ph":"X", "name": "CheckGlobSignature",  "args": { "detail":"Library/PlayerDataCache/Win642/Data" }}
+,{ "pid":12345, "tid":3, "ts":1744050179687024, "dur":6144, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744050179693491, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179693596, "dur":50, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179693649, "dur":182, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179693831, "dur":294, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179694127, "dur":1200, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179695330, "dur":337, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179695717, "dur":158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179695922, "dur":462, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179696385, "dur":209, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179696599, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179696687, "dur":190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179696881, "dur":339, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179697221, "dur":213, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179697435, "dur":273, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179697711, "dur":271, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179697984, "dur":362, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179698349, "dur":380, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179698731, "dur":149, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1744050179699409, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\artifacts\\UnityLinkerInputs\\EditorToUnityLinkerData.json" }}
+,{ "pid":12345, "tid":3, "ts":1744050179693268, "dur":6450, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"UnityLinker C:/Users/kathe/Unity Projects/card collector game/Library/Bee/artifacts/unitylinker_dwek.traceevents" }}
+,{ "pid":12345, "tid":3, "ts":1744050179699719, "dur":1583, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744050179705682, "dur":1050, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":3, "ts":1744050179706733, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1744050179706990, "dur":72886, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744050179686490, "dur":1504, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744050179687999, "dur":755, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744050179688754, "dur":4422, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744050179693176, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1744050179693309, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1744050179693417, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744050179693490, "dur":12317, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744050179705809, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744050179705891, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1744050179706116, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744050179706348, "dur":465, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1744050179706814, "dur":72922, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744050179686484, "dur":1428, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744050179687916, "dur":475, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744050179688392, "dur":1001, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744050179689393, "dur":3957, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744050179693351, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1744050179693471, "dur":252, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1744050179693724, "dur":12004, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744050179705891, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1744050179706167, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1744050179706402, "dur":73465, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744050179688355, "dur":1025, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744050179689380, "dur":3917, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744050179693301, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1744050179693444, "dur":265, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":6, "ts":1744050179693710, "dur":12105, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1744050179705818, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744050179705912, "dur":51, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744050179706168, "dur":746, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1744050179706915, "dur":72816, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744050179685406, "dur":1956, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744050179687366, "dur":364, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744050179687730, "dur":398, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744050179688129, "dur":729, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744050179688859, "dur":4500, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744050179693654, "dur":276, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744050179694065, "dur":2548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1744050179696629, "dur":9119, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1744050179705750, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744050179705916, "dur":274, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.MarshallingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1744050179706410, "dur":73457, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744050179685911, "dur":1799, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744050179687735, "dur":854, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744050179688589, "dur":772, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744050179689361, "dur":3977, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1744050179693339, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1744050179734705, "dur":2360, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1744050179737078, "dur":42815, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744050179686754, "dur":1349, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744050179688104, "dur":1122, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744050179689227, "dur":4077, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744050179693308, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1744050179693448, "dur":299, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1744050179693747, "dur":11936, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1744050179705701, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744050179705871, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744050179706327, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1744050179706487, "dur":73253, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744050179684919, "dur":2107, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744050179687030, "dur":472, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744050179687503, "dur":529, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744050179688032, "dur":443, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744050179688475, "dur":687, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744050179689162, "dur":4199, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744050179694382, "dur":1838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":10, "ts":1744050179696250, "dur":9435, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744050179706121, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1744050179706397, "dur":73472, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744050179685191, "dur":2062, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744050179687258, "dur":415, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744050179687673, "dur":588, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744050179688261, "dur":493, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744050179688755, "dur":4416, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1744050179710233, "dur":821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":11, "ts":1744050179711068, "dur":68839, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744050179685171, "dur":1993, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744050179687186, "dur":533, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744050179687719, "dur":402, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744050179688121, "dur":466, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744050179688587, "dur":660, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744050179689247, "dur":4035, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744050179693285, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1744050179693417, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744050179693481, "dur":12224, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744050179705706, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744050179705917, "dur":303, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1744050179706220, "dur":770, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1744050179706991, "dur":72734, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744050179686190, "dur":1595, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744050179687791, "dur":649, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744050179688440, "dur":462, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744050179688902, "dur":4472, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744050179704913, "dur":640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":13, "ts":1744050179705566, "dur":225, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1744050179705792, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744050179706147, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744050179706258, "dur":346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744050179706633, "dur":663, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.RenderPipelines.Universal.Config.Runtime.dll" }}
+,{ "pid":12345, "tid":13, "ts":1744050179707297, "dur":72613, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744050179688012, "dur":765, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744050179688777, "dur":4570, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744050179693348, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744050179693495, "dur":345, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744050179693848, "dur":11894, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744050179705744, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1744050179705846, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744050179706137, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1744050179706436, "dur":73364, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744050179687200, "dur":356, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744050179687557, "dur":927, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744050179688485, "dur":840, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744050179689325, "dur":4028, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744050179694921, "dur":1980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":15, "ts":1744050179696915, "dur":8830, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744050179705747, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744050179705987, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744050179706168, "dur":52, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744050179706357, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744050179706512, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1744050179706591, "dur":498, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":15, "ts":1744050179707090, "dur":72620, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744050179687411, "dur":553, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744050179687965, "dur":442, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744050179688407, "dur":506, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744050179688913, "dur":4454, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744050179706147, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1744050179704304, "dur":1899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":16, "ts":1744050179706419, "dur":73421, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1744050179687758, "dur":878, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1744050179688637, "dur":4533, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1744050179693174, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":17, "ts":1744050179693274, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\boot.config" }}
+,{ "pid":12345, "tid":17, "ts":1744050179693391, "dur":150, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":17, "ts":1744050179693677, "dur":166, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179693844, "dur":284, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179694129, "dur":1015, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179695166, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179695231, "dur":406, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179695682, "dur":188, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Rendering.LightTransport.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179695920, "dur":445, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179696368, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.Shared.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179696457, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.GPUDriven.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179696619, "dur":145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.2D.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179696803, "dur":384, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179697188, "dur":203, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179697392, "dur":320, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179697713, "dur":395, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179698109, "dur":265, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179698375, "dur":266, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179698690, "dur":177, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\kathe\\Unity Projects\\card collector game\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":17, "ts":1744050179693267, "dur":6006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":17, "ts":1744050179699590, "dur":62, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1744050179699856, "dur":72798, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":17, "ts":1744050179777604, "dur":1268, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":17, "ts":1744050179777591, "dur":1283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/boot.config" }}
+,{ "pid":12345, "tid":17, "ts":1744050179778889, "dur":727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/boot.config" }}
+,{ "pid":12345, "tid":18, "ts":1744050179688618, "dur":495, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1744050179689113, "dur":4223, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1744050179693337, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":18, "ts":1744050179738129, "dur":942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":18, "ts":1744050179739084, "dur":40718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1744050179688401, "dur":957, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1744050179689359, "dur":3916, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1744050179693279, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":19, "ts":1744050179725558, "dur":624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/level3" }}
+,{ "pid":12345, "tid":19, "ts":1744050179726196, "dur":53641, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1744050179688938, "dur":4418, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1744050179700515, "dur":823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":20, "ts":1744050179701354, "dur":4398, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1744050179705754, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744050179706182, "dur":266, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":20, "ts":1744050179706449, "dur":73382, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1744050179689460, "dur":3927, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1744050179693398, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1744050179693474, "dur":12218, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1744050179706134, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744050179706225, "dur":441, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1744050179706667, "dur":73062, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1744050179689169, "dur":4173, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1744050179693343, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":22, "ts":1744050179693415, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1744050179693474, "dur":12255, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1744050179705730, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744050179706220, "dur":437, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":22, "ts":1744050179706658, "dur":73207, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1744050179689658, "dur":3674, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1744050179693334, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":23, "ts":1744050179726402, "dur":528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/level2" }}
+,{ "pid":12345, "tid":23, "ts":1744050179726944, "dur":52790, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1744050179689563, "dur":3772, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1744050179693336, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":24, "ts":1744050179730699, "dur":538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/level1" }}
+,{ "pid":12345, "tid":24, "ts":1744050179731250, "dur":48480, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1744050179690624, "dur":2618, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1744050179714286, "dur":736, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":25, "ts":1744050179715035, "dur":64808, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1744050179689134, "dur":4184, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1744050179693355, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":26, "ts":1744050179740671, "dur":463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":26, "ts":1744050179741147, "dur":38565, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1744050179689262, "dur":4031, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1744050179713406, "dur":2479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":27, "ts":1744050179715899, "dur":63810, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1744050179689522, "dur":3818, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1744050179693342, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744050179693483, "dur":12336, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1744050179705821, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744050179706039, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744050179706292, "dur":219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1744050179706512, "dur":131, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":28, "ts":1744050179706644, "dur":73184, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1744050179690252, "dur":3124, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1744050179709054, "dur":1074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":29, "ts":1744050179710141, "dur":69583, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1744050179689879, "dur":3432, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1744050179693315, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":30, "ts":1744050179718325, "dur":665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/kathe/Downloads/CardGame2/card collector game_Data/resources.assets" }}
+,{ "pid":12345, "tid":30, "ts":1744050179719004, "dur":60834, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1744050179690408, "dur":2970, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1744050179693388, "dur":134, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win642\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":31, "ts":1744050179693378, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":31, "ts":1744050179693542, "dur":306, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":31, "ts":1744050179693849, "dur":11890, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1744050179705741, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744050179706041, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1744050179706186, "dur":280, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1744050179706468, "dur":73361, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1744050179690488, "dur":2748, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1744050179693240, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":32, "ts":1744050179693343, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1744050179693442, "dur":294, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":32, "ts":1744050179693736, "dur":12058, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1744050179705795, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744050179706121, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744050179706293, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/kathe/Downloads/CardGame2/card collector game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1744050179706494, "dur":73388, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1744050179784458, "dur":454, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 58656, "tid": 397, "ts": 1744050179785919, "dur": 1284, "ph": "X", "name": "Wait for external events", "args": {"First to finish": "backend1.traceevents"} },
+{ "pid": 58656, "tid": 397, "ts": 1744050179787249, "dur": 9505, "ph": "X", "name": "backend1.traceevents", "args": {} },
+{ "pid": 58656, "tid": 397, "ts": 1744050179785670, "dur": 11115, "ph": "X", "name": "Write chrome-trace events", "args": {} },
