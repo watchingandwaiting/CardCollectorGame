@@ -1,17 +1,9 @@
 sceneSetups:
-- path: Assets/Scenes/Outside.unity
-  isLoaded: 0
-  isActive: 0
-  isSubScene: 0
 - path: Assets/Scenes/Bedroom.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
-- path: Assets/Scenes/Ending.unity
-  isLoaded: 0
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/Park.unity
+- path: Assets/Scenes/Outside.unity
   isLoaded: 0
   isActive: 0
   isSubScene: 0
